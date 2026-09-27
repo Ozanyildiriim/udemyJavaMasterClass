@@ -1,4 +1,4 @@
-package Chapter8.Challenges;
+package Chapter8.Challenges.Bedroom;
 
 
 public class Bed {
